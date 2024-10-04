@@ -62,19 +62,6 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
 
 5. Após concluir uma operação, o menu será exibido novamente para que você possa escolher outra opção, ou você pode optar por sair do aplicativo digitando "5" e pressionando Enter.
 
-## SOBRE O EXECUTAVEL:
-### 1. EXECUTANDO:
-   - Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, digitar o seguinte comando em `./CODIGO`:
-      ```bash
-      main
-      ```
-
-### 2. GERANDO:
-   - O executável é bastante útil caso o GO não esteja instalado. Trata-se da mesma aplicação do arquivo `main.go`. Se desejar, você pode recompilá-lo novamente com:
-      ```bash
-      go build
-      ```
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE GOLANG](https://github.com/VILHALVA/CURSO-DE-GOLANG)
